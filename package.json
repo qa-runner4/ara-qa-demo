@@ -1,0 +1,13 @@
+{
+  "name": "ara-qa-replay-fixture",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "bun test",
+    "typecheck": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "@types/bun": "^1.2.21",
+    "typescript": "^5.9.2"
+  }
+}
